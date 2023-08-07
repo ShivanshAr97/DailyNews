@@ -4,19 +4,9 @@ import NewsItem from './NewsItem'
 export class News extends Component {
   render() {
     return (
-        <>
-      <div>News</div>
-      <NewsItem/>
-      <NewsItem/>
-      <NewsItem/>
-      <NewsItem/>
-      <NewsItem/>
-      <NewsItem/>
-      <NewsItem/>
-      <NewsItem/>
-      <NewsItem/>
-      <NewsItem/>
-      <NewsItem/>
+      <>
+        <div>News</div>
+        <NewsItem/>
       </>
     )
   }
